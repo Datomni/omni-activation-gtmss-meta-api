@@ -8,6 +8,3 @@
 .DS_Store
 .idea/
 .vscode/
-
-# Remove metadata file as it's not needed
-metadata.yaml 
