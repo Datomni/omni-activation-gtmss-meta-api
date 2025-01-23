@@ -1,0 +1,13 @@
+# Ignore implementation files
+*.js
+
+# Keep only essential files for distribution
+!template.tpl
+
+# IDE and system files
+.DS_Store
+.idea/
+.vscode/
+
+# Remove metadata file as it's not needed
+metadata.yaml 
