@@ -6,6 +6,9 @@
 > 📚 **Full Documentation**  
 > For complete documentation and implementation details, visit [https://docs.datomni.com/docs/activation/ssGTM/tags/meta-api](https://docs.datomni.com/docs/activation/ssGTM/tags/meta-api)
 
+> 📰 **Check out our blog article**  
+> For more insights and information about the tag, check out our blog article [here](https://insights.datomni.com/blog/meta-conversion-api-gtmss-full-customer-journey/)
+
 ## Overview
 A powerful server-side GTM implementation for Meta (Facebook) Conversion API that enables full-funnel conversion tracking. Powered by Omni Identity, this tag maximizes conversion matching by enriching Meta events with unified cross-channel identifiers and datapoints while maintaining privacy compliance.
 
