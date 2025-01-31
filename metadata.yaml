@@ -1,5 +1,9 @@
 homepage: "http://docs.datomni.com/"
 documentation: "https://docs.datomni.com/docs/activation/ssGTM/tags/meta-api"
 versions:
+  # Latest version
+  - sha: 0c58f20a93475f637e5b9c543c9b882140b05370
+    changeNotes: Improve UI clarity, add omni-identity enrichment, minor fixes
+  # Older version
   - sha: 29a18b05aaf25a4b47f260683ad2874da7d31de9
-    changeNotes: Initial release of the Omni Meta Conversion API tag with advanced identity resolution, enrichment capabilities, and comprehensive monitoring features. 
+    changeNotes: Initial release of the Omni Meta Conversion API tag with advanced identity resolution, enrichment capabilities, and comprehensive monitoring features.
